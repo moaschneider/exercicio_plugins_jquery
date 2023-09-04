@@ -46,7 +46,6 @@ input {
 }
 
 input.error {
-    backgrund-color: #ffb0b0;
     border: 1px solid red;
 }
 
